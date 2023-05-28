@@ -14,6 +14,24 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-UmarWaterService-UmarWaterServiceTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-UmarWaterService-UmarWaterServiceTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		38686AEDD87147A9BB7A888C /* Raleway-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CFCAC1E97F49425499CC20A0 /* Raleway-Black.ttf */; };
+		7DFB2555335441F796E3988E /* Raleway-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 259215C4FECE44A2809CEF06 /* Raleway-BlackItalic.ttf */; };
+		4D0E9B5C050D494AAD2EC0FC /* Raleway-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 944D6F7D83D747BBA8087838 /* Raleway-Bold.ttf */; };
+		6E6C95CD7C4E40B7A5AF5A9E /* Raleway-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BA2208DAE2CE4D829515A366 /* Raleway-BoldItalic.ttf */; };
+		DEEAED133E3C4324BBBF89CB /* Raleway-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E2490234E10D482784428C4F /* Raleway-ExtraBold.ttf */; };
+		32813BC60DD8409A99E37412 /* Raleway-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D801A008C1C341A9987734C3 /* Raleway-ExtraBoldItalic.ttf */; };
+		1BCD8381E9D7457FB5793354 /* Raleway-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C48AC732A95D473DBA3CF3D7 /* Raleway-ExtraLight.ttf */; };
+		EDF97095F52644DD82A6456B /* Raleway-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FACBE354A80A4BA09449EADC /* Raleway-ExtraLightItalic.ttf */; };
+		2E804125D91741E68B032585 /* Raleway-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 07E3F756152B4593AAF49F82 /* Raleway-Italic.ttf */; };
+		031980E0608E4D148119326B /* Raleway-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 619858CA603445BD8B66CDAD /* Raleway-Light.ttf */; };
+		0B30262D231948B394A7B275 /* Raleway-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 35568D9575B845FFBBA221AC /* Raleway-LightItalic.ttf */; };
+		DC93298B1DEF41FF9790EAC5 /* Raleway-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9C616544E58446228C0693AE /* Raleway-Medium.ttf */; };
+		0506AE4611B44F2D9AFC130F /* Raleway-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9EBCB94613164F2A8B09B408 /* Raleway-MediumItalic.ttf */; };
+		ED8EFCBD0FD249EC9655A7C4 /* Raleway-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 765E8893A89242E5B35E8927 /* Raleway-Regular.ttf */; };
+		FBB951EFB8EF4A71BD483054 /* Raleway-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8D244353076A4D25BA539467 /* Raleway-SemiBold.ttf */; };
+		AB24E5D0AD634739B234E3E6 /* Raleway-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DF354CBBE62649D99FEB093A /* Raleway-SemiBoldItalic.ttf */; };
+		7EC63ED6A9FA4CFFBAD6ACFA /* Raleway-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3DA268CBE09B45668A1A72D6 /* Raleway-Thin.ttf */; };
+		30E4F07C8C8A43E6BD7BF9DF /* Raleway-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 82D2469D08384B3B9687A917 /* Raleway-ThinItalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +62,24 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = UmarWaterService/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-UmarWaterService-UmarWaterServiceTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UmarWaterService-UmarWaterServiceTests.release.xcconfig"; path = "Target Support Files/Pods-UmarWaterService-UmarWaterServiceTests/Pods-UmarWaterService-UmarWaterServiceTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		CFCAC1E97F49425499CC20A0 /* Raleway-Black.ttf */ = {isa = PBXFileReference; name = "Raleway-Black.ttf"; path = "../src/assets/fonts/Raleway-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		259215C4FECE44A2809CEF06 /* Raleway-BlackItalic.ttf */ = {isa = PBXFileReference; name = "Raleway-BlackItalic.ttf"; path = "../src/assets/fonts/Raleway-BlackItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		944D6F7D83D747BBA8087838 /* Raleway-Bold.ttf */ = {isa = PBXFileReference; name = "Raleway-Bold.ttf"; path = "../src/assets/fonts/Raleway-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		BA2208DAE2CE4D829515A366 /* Raleway-BoldItalic.ttf */ = {isa = PBXFileReference; name = "Raleway-BoldItalic.ttf"; path = "../src/assets/fonts/Raleway-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E2490234E10D482784428C4F /* Raleway-ExtraBold.ttf */ = {isa = PBXFileReference; name = "Raleway-ExtraBold.ttf"; path = "../src/assets/fonts/Raleway-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		D801A008C1C341A9987734C3 /* Raleway-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; name = "Raleway-ExtraBoldItalic.ttf"; path = "../src/assets/fonts/Raleway-ExtraBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		C48AC732A95D473DBA3CF3D7 /* Raleway-ExtraLight.ttf */ = {isa = PBXFileReference; name = "Raleway-ExtraLight.ttf"; path = "../src/assets/fonts/Raleway-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		FACBE354A80A4BA09449EADC /* Raleway-ExtraLightItalic.ttf */ = {isa = PBXFileReference; name = "Raleway-ExtraLightItalic.ttf"; path = "../src/assets/fonts/Raleway-ExtraLightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		07E3F756152B4593AAF49F82 /* Raleway-Italic.ttf */ = {isa = PBXFileReference; name = "Raleway-Italic.ttf"; path = "../src/assets/fonts/Raleway-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		619858CA603445BD8B66CDAD /* Raleway-Light.ttf */ = {isa = PBXFileReference; name = "Raleway-Light.ttf"; path = "../src/assets/fonts/Raleway-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		35568D9575B845FFBBA221AC /* Raleway-LightItalic.ttf */ = {isa = PBXFileReference; name = "Raleway-LightItalic.ttf"; path = "../src/assets/fonts/Raleway-LightItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9C616544E58446228C0693AE /* Raleway-Medium.ttf */ = {isa = PBXFileReference; name = "Raleway-Medium.ttf"; path = "../src/assets/fonts/Raleway-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9EBCB94613164F2A8B09B408 /* Raleway-MediumItalic.ttf */ = {isa = PBXFileReference; name = "Raleway-MediumItalic.ttf"; path = "../src/assets/fonts/Raleway-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		765E8893A89242E5B35E8927 /* Raleway-Regular.ttf */ = {isa = PBXFileReference; name = "Raleway-Regular.ttf"; path = "../src/assets/fonts/Raleway-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8D244353076A4D25BA539467 /* Raleway-SemiBold.ttf */ = {isa = PBXFileReference; name = "Raleway-SemiBold.ttf"; path = "../src/assets/fonts/Raleway-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DF354CBBE62649D99FEB093A /* Raleway-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "Raleway-SemiBoldItalic.ttf"; path = "../src/assets/fonts/Raleway-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		3DA268CBE09B45668A1A72D6 /* Raleway-Thin.ttf */ = {isa = PBXFileReference; name = "Raleway-Thin.ttf"; path = "../src/assets/fonts/Raleway-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		82D2469D08384B3B9687A917 /* Raleway-ThinItalic.ttf */ = {isa = PBXFileReference; name = "Raleway-ThinItalic.ttf"; path = "../src/assets/fonts/Raleway-ThinItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +158,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				4401DC55BA86458AA3DC56E0 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -147,6 +184,32 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		4401DC55BA86458AA3DC56E0 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				CFCAC1E97F49425499CC20A0 /* Raleway-Black.ttf */,
+				259215C4FECE44A2809CEF06 /* Raleway-BlackItalic.ttf */,
+				944D6F7D83D747BBA8087838 /* Raleway-Bold.ttf */,
+				BA2208DAE2CE4D829515A366 /* Raleway-BoldItalic.ttf */,
+				E2490234E10D482784428C4F /* Raleway-ExtraBold.ttf */,
+				D801A008C1C341A9987734C3 /* Raleway-ExtraBoldItalic.ttf */,
+				C48AC732A95D473DBA3CF3D7 /* Raleway-ExtraLight.ttf */,
+				FACBE354A80A4BA09449EADC /* Raleway-ExtraLightItalic.ttf */,
+				07E3F756152B4593AAF49F82 /* Raleway-Italic.ttf */,
+				619858CA603445BD8B66CDAD /* Raleway-Light.ttf */,
+				35568D9575B845FFBBA221AC /* Raleway-LightItalic.ttf */,
+				9C616544E58446228C0693AE /* Raleway-Medium.ttf */,
+				9EBCB94613164F2A8B09B408 /* Raleway-MediumItalic.ttf */,
+				765E8893A89242E5B35E8927 /* Raleway-Regular.ttf */,
+				8D244353076A4D25BA539467 /* Raleway-SemiBold.ttf */,
+				DF354CBBE62649D99FEB093A /* Raleway-SemiBoldItalic.ttf */,
+				3DA268CBE09B45668A1A72D6 /* Raleway-Thin.ttf */,
+				82D2469D08384B3B9687A917 /* Raleway-ThinItalic.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -244,6 +307,24 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				38686AEDD87147A9BB7A888C /* Raleway-Black.ttf in Resources */,
+				7DFB2555335441F796E3988E /* Raleway-BlackItalic.ttf in Resources */,
+				4D0E9B5C050D494AAD2EC0FC /* Raleway-Bold.ttf in Resources */,
+				6E6C95CD7C4E40B7A5AF5A9E /* Raleway-BoldItalic.ttf in Resources */,
+				DEEAED133E3C4324BBBF89CB /* Raleway-ExtraBold.ttf in Resources */,
+				32813BC60DD8409A99E37412 /* Raleway-ExtraBoldItalic.ttf in Resources */,
+				1BCD8381E9D7457FB5793354 /* Raleway-ExtraLight.ttf in Resources */,
+				EDF97095F52644DD82A6456B /* Raleway-ExtraLightItalic.ttf in Resources */,
+				2E804125D91741E68B032585 /* Raleway-Italic.ttf in Resources */,
+				031980E0608E4D148119326B /* Raleway-Light.ttf in Resources */,
+				0B30262D231948B394A7B275 /* Raleway-LightItalic.ttf in Resources */,
+				DC93298B1DEF41FF9790EAC5 /* Raleway-Medium.ttf in Resources */,
+				0506AE4611B44F2D9AFC130F /* Raleway-MediumItalic.ttf in Resources */,
+				ED8EFCBD0FD249EC9655A7C4 /* Raleway-Regular.ttf in Resources */,
+				FBB951EFB8EF4A71BD483054 /* Raleway-SemiBold.ttf in Resources */,
+				AB24E5D0AD634739B234E3E6 /* Raleway-SemiBoldItalic.ttf in Resources */,
+				7EC63ED6A9FA4CFFBAD6ACFA /* Raleway-Thin.ttf in Resources */,
+				30E4F07C8C8A43E6BD7BF9DF /* Raleway-ThinItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
