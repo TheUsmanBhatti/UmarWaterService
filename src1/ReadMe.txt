@@ -1,0 +1,1 @@
+This src folder includes Movies List where user can add movies to his favorite list. 
